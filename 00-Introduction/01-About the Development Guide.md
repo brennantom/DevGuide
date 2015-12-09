@@ -18,5 +18,6 @@ In some countries, risk-based development is not an optional extra, but legally 
 As with any long-lived project, there is a need to keep the material fresh and relevant. Therefore, some of the material from the older Guides has been migrated to OWASP’s portal or outright replaced with new advice.
 
 Thanks to the many authors and editors for their hard work in bringing this guide to where it is today. If you have any comments or suggestions on the Guide, please e-mail the Guide mail list (see our web site for details) or contact me directly.
+
 Steven van der Baan, vdbaan@owasp.org
 Augustus 2015, UK
